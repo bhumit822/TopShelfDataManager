@@ -1,0 +1,125 @@
+
+[
+    {
+        "SubCat": [
+            {
+                "topShelfSubCategories": "TEINT",
+                "productSubCate": [
+                    "Teint"
+                ]
+            },
+            {
+                "topShelfSubCategories": "LIPPEN",
+                "productSubCate": [
+                    "Lippen"
+                ]
+            },
+            {
+                "topShelfSubCategories": "PINSEL",
+                "productSubCate": [
+                    "Pinsel und Schwamm",
+                    "Pinsel"
+                ]
+            },
+            {
+                "topShelfSubCategories": "AUGEN",
+                "productSubCate": [
+                    "Augen"
+                ]
+            },
+            {
+                "topShelfSubCategories": "AUGENBRAUEN",
+                "productSubCate": [
+                    "Augenbrauen"
+                ]
+            },
+            {
+                "topShelfSubCategories": "NÄGEL",
+                "productSubCate": [
+                    "Nägel"
+                ]
+            },
+            {
+                "topShelfSubCategories": "MAKE-UP ACCESSOIRES",
+                "productSubCate": [
+                    "Accessoires Make Up",
+                    "Zubehör"
+                ]
+            }
+        ],
+        "Cat": "MAKE UP"
+    },
+    {
+        "SubCat": [
+            {
+                "topShelfSubCategories": "GESICHTSPFLEGE",
+                "productSubCate": ["Gesichtspflege"]
+            },
+            {
+                "topShelfSubCategories": "Gesichtsreinigung",
+                "productSubCate": ["Gesichtsserum", "Gesichtsreinigung"]
+            },
+            {
+                "topShelfSubCategories": "MASKEN",
+                "productSubCate": ["Masken", "Gesichtsmasken"]
+            },
+            {
+                "topShelfSubCategories": "SONNE & SCHUTZ",
+                "productSubCate": ["Sonnen + Sonnenschutz", "Sonne & Schutz"]
+            },
+            {
+                "topShelfSubCategories": "Hauttypen",
+                "productSubCate": ["Pflege nach Hautbedürfnis", "Hauttypen"]
+            },
+            {
+                "topShelfSubCategories": "BEAUTY TOOLS",
+                "productSubCate": ["Accessoires", "Beauty Tools & Zubehör"]
+            },
+            {
+                "topShelfSubCategories": "AUGENPFLEGE",
+                "productSubCate": ["Augenpflege"]
+            },
+            {
+                "topShelfSubCategories": "LIPPENPFLEGE",
+                "productSubCate": ["Lippenpflege"]
+            }
+        ],
+        "Cat": "GESICHT"
+    },
+    {
+        "SubCat": [
+            {"topShelfSubCategories": "DAMENDÜFTE", "productSubCate": ["Damendüfte"]},
+            {"topShelfSubCategories": "HERRENDÜFTE", "productSubCate": ["Herrendüfte"]},
+            {"topShelfSubCategories": "UNISEX DÜFTE", "productSubCate": ["Unisex Düfte"]},
+            {"topShelfSubCategories": "NISCHENDÜFTE", "productSubCate": ["Nischenparfüm", "Nischendüfte"]},
+            {"topShelfSubCategories": "PARFUM SETS", "productSubCate": ["Parfum Sets"]}
+        ],
+        "Cat": "PARFUM"
+    },
+    {
+        "SubCat": [
+            {"topShelfSubCategories": "SHAMPOO", "productSubCate": []},
+            {"topShelfSubCategories": "TROCKENSHAMPOO", "productSubCate": []},
+            {"topShelfSubCategories": "CONDITIONER", "productSubCate": []},
+            {"topShelfSubCategories": "LEAVE-IN-BEHANDLUNG", "productSubCate": []},
+            {"topShelfSubCategories": "HAARKUR & -MASKE", "productSubCate": []},
+            {"topShelfSubCategories": "HAAR-ÖLE & SEEREN", "productSubCate": []},
+            {"topShelfSubCategories": "HAARPARFÜM", "productSubCate": []},
+            {"topShelfSubCategories": "KOPFHAUTPFLEGE", "productSubCate": []},
+            {"topShelfSubCategories": "SONNENSCHUTZ", "productSubCate": []},
+            {"topShelfSubCategories": "HAARPFLEGESETS", "productSubCate": []}
+        ],
+        "Cat": "HAARPFLEGE"
+    },
+    {
+        "SubCat": [
+            {"topShelfSubCategories": "HAARSPRAY", "productSubCate": []},
+            {"topShelfSubCategories": "HAARWACHS & CREME", "productSubCate": []},
+            {"topShelfSubCategories": "HAARGEL", "productSubCate": []},
+            {"topShelfSubCategories": "HAARMOUSSE", "productSubCate": []},
+            {"topShelfSubCategories": "HITZESCHUTZ", "productSubCate": []},
+            {"topShelfSubCategories": "STYLINGSPRAYS", "productSubCate": []}
+        ],
+        "Cat": "HAARSTYLING"
+    }
+]
